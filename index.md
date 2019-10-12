@@ -4,15 +4,15 @@
 
 ### Software Projects 
 
-[Street Justice](/sample_page)
+[Street Justice] <!-- (/sample_page) -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
 
 ---
-[Puzzle](/pdf/sample_presentation.pdf)
+[Puzzle] <!-- (/pdf/sample_presentation.pdf) -->
 <img src="https://forums.unrealengine.com/filedata/fetch?id=1196683&d=1476130951"/>
 
 ---
-[Dynamic Weather](http://example.com/)
+[Dynamic Weather] <!--(http://example.com/) -->
 <img src="https://www.infragistics.com/community/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-04-34/6740.dev_2D00_tools_2D00_Windows_2D00_Forms_2D00_release_2D00_notes.jpg_2D00_774x600.jpg?_=636818678591541107"/>
 
 ---
