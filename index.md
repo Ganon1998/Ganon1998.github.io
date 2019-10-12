@@ -9,7 +9,7 @@
 
 ---
 [Puzzle](/pdf/sample_presentation.pdf)
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Unreal_Engine_4_logo_and_wordmark.svg"/>
+<img src="https://forums.unrealengine.com/filedata/fetch?id=1196683&d=1476130951"/>
 
 ---
 [Dynamic Weather](http://example.com/)
