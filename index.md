@@ -2,28 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Software Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Street Justice](/sample_page)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Puzzle](/pdf/sample_presentation.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Unreal_Engine_4_logo_and_wordmark.svg"/>
+
+---
+[Dynamic Weather](http://example.com/)
+<img src="https://www.infragistics.com/community/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-04-34/6740.dev_2D00_tools_2D00_Windows_2D00_Forms_2D00_release_2D00_notes.jpg_2D00_774x600.jpg?_=636818678591541107"/>
 
 ---
 
-### Category Name 2
+### Software Project Links
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Street Justice (Unity2D Project)](https://github.com/Ganon1998/Unity_2D_Roughdraft.git)
+- [Puzzle (UE4 Game)](https://github.com/Ganon1998/First_UE4_Game.git)
+- [Dynamic Weather (private)](https://github.com/swiftlee/dynamicweather.git)
 
 ---
 
